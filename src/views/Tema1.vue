@@ -21,11 +21,11 @@
       .col-lg-8.my-3(data-aos="fade-right") 
         AcordionA(tipo="b" clase-tarjeta="tarjeta bgad")
           .row(titulo="Esperado") 
-            p.mb-0 Cuando los resultados registrados cumplen con las dimensiones fundamentales acorde a su edad, se considera que el niño o la niña presenta un perfil de desarrollo esperado. En este caso, es importante tener en cuenta las indicaciones del plan pedagógico y continuar fortaleciendo todas las áreas valoradas para que el niño o la niña siga alcanzando los logros en su crecimiento y desarrollo. 
+            p.mb-0 Cuando los resultados registrados cumplen con las dimensiones fundamentales acorde a su edad, se considera que el niño o la niña presenta un perfil de desarrollo #[b esperado]. En este caso, es importante tener en cuenta las indicaciones del plan pedagógico y continuar fortaleciendo todas las áreas valoradas para que el niño o la niña siga alcanzando los logros en su crecimiento y desarrollo. 
           .row(titulo="Avanzado") 
-            p.mb-0 Si se observa un desarrollo adelantado en al menos una de las dimensiones del niño o la niña, en comparación con su edad y etapas posteriores, se considera que presenta un perfil avanzado. En este caso, es importante continuar fortaleciendo y estimulando al niño o niña para aprovechar al máximo su potencial y promover un desarrollo óptimo. 
+            p.mb-0 Si se observa un desarrollo adelantado en al menos una de las dimensiones del niño o la niña, en comparación con su edad y etapas posteriores, se considera que presenta un perfil #[b avanzado]. En este caso, es importante continuar fortaleciendo y estimulando al niño o niña para aprovechar al máximo su potencial y promover un desarrollo óptimo. 
           .row(titulo="En riesgo") 
-            p.mb-0 Si se observa alguna novedad en al menos una de las dimensiones del niño o la niña, como la falta de cumplimiento de una actividad propuesta o un resultado no esperado, se habla de un perfil de desarrollo en riesgo. En este caso, es fundamental prestar mucha atención a las prácticas y enfoques aplicados hasta el momento, tanto por parte del talento humano en salud como por parte de los padres y/o cuidadores.     
+            p.mb-0 Si se observa alguna novedad en al menos una de las dimensiones del niño o la niña, como la falta de cumplimiento de una actividad propuesta o un resultado no esperado, se habla de un perfil de desarrollo en #[b riesgo]. En este caso, es fundamental prestar mucha atención a las prácticas y enfoques aplicados hasta el momento, tanto por parte del talento humano en salud como por parte de los padres y/o cuidadores.     
             
     .row.justify-content-center.align-items-center.mb-4               
       .col-lg-auto.my-3
@@ -79,7 +79,7 @@
                 p.mb-0 Coordinación de movimientos presentes en cabeza, tronco, extremidades superiores e inferiores, tono y la postura que toma la niña o el niño.
               .tarjeta.bgcard.ts.h-100.p-4
                 h4 Motricidad Fina-adaptativa 
-                p.mb-0 Se caracteriza por el seguimiento visual, la capacidad de coordinación entre mano –ojo, cálculo de distancias, movimientos precisos, la manipulación de elementos y pinza digital.  
+                p.mb-0 Se caracteriza por el seguimiento visual, la capacidad de coordinación entre mano–ojo, cálculo de distancias, movimientos precisos, la manipulación de elementos y pinza digital.  
               .tarjeta.bgcard.ts.h-100.p-4
                 h4 Personal Social 
                 p.mb-0 Es la interacción generada entre más participantes del entorno, su capacidad de expresar sus emociones, sentimientos y cómo a través de ellos genera dependencia o independencia para realizar movimientos o gestos en un comportamiento de adaptación al entorno.

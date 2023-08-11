@@ -37,7 +37,7 @@
 
     .row.justify-content-center.align-items-center.mb-4         
       .col-lg-4.my-3
-        p(data-aos="fade-down") Es importante recordar que durante el proceso de crecimiento y desarrollo, no todas las niñas y los niños tienen el mismo ritmo. Aunque siguen patrones similares según su entorno, pueden presentarse algunas diferencias en su desarrollo. Para comprender mejor los cambios que experimentarán las niñas y los niños, es necesario prestar atención tanto a sus conductas como a las de sus padres y/o cuidadores. Además, es importante considerar la información proporcionada por el grupo de talento humano en salud, conformado por profesionales capacitados en el cuidado de la niña o el niño durante la primera infancia.      
+        p(data-aos="fade-down") Es importante recordar que, durante el proceso de crecimiento y desarrollo, no todas las niñas y los niños tienen el mismo ritmo. Aunque siguen patrones similares según su entorno, pueden presentarse algunas diferencias en su desarrollo. Para comprender mejor los cambios que experimentarán las niñas y los niños, es necesario prestar atención tanto a sus conductas como a las de sus padres y/o cuidadores. Además, es importante considerar la información proporcionada por el grupo de talento humano en salud, conformado por profesionales capacitados en el cuidado de la niña o el niño durante la primera infancia.      
       .col-lg-4.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/18.png', alt='') 
 
@@ -116,7 +116,7 @@
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0.ts
                       h4 Buenos hábitos de alimentación para niños 
-                      p.mb-0 Estimado aprendiz, lo invitamos a ingresar al video “Buenos hábitos de alimentación para niños”.  El video aborda el tema de los buenos hábitos de alimentación para niños, se menciona la importancia de aplicar el mindfulness al comer, es decir, comer conscientemente sin distracciones.
+                      p.mb-0 Estimado aprendiz, lo invitamos a ingresar al video “Buenos hábitos de alimentación para niños”.  El video aborda el tema de los buenos hábitos de alimentación para niños, se menciona la importancia de aplicar el #[i mindfulness] al comer, es decir, comer conscientemente sin distracciones.
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=ERSZmGBSGec" target="_blank")
                         span.text-white Ver video
@@ -125,13 +125,15 @@
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/25.png', alt='')  
     p(data-aos="fade-down") Es importante tener en cuenta que en este proceso debemos considerar aspectos culturales, geográficos, económicos y otros factores. Entre ellos, es crucial asegurar el acceso y disponibilidad de los alimentos necesarios. Además, debemos #[b.t1 cubrir los nutrientes críticos que ya no son proporcionados por la lactancia materna, como el hierro, el zinc y la vitamina D. Estos nutrientes son fundamentales para el adecuado desarrollo de los niños y niñas.]
 
-    p(data-aos="fade-down").mb-5 A continuación, se presenta un video que muestra las vitaminas y losminerales más comúnmente utilizados, su utilidad y las fuentes de alimentos en las que se encuentran. Es importante tener en cuenta que algunas vitaminas, cuando se administran en forma pura y en cantidades elevadas, pueden ser tóxicas. 
+    p(data-aos="fade-down").mb-5 A continuación, se presenta un video que muestra las vitaminas y los minerales más comúnmente utilizados, su utilidad y las fuentes de alimentos en las que se encuentran. Es importante tener en cuenta que algunas vitaminas, cuando se administran en forma pura y en cantidades elevadas, pueden ser tóxicas. 
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)    
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/HKZ3jKd5wGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)   
+          figcaption Video. Vitaminas y minerales
+
 
     p(data-aos="fade-down").mb-5 La alimentación después del nacimiento es un tema que genera muchas preguntas en madres, padres y/o cuidadores, especialmente para aquellos que tienen su primera experiencia. Es fundamental recordar que la lactancia materna es uno de los mejores y únicos alimentos para el bebé, a menos que el profesional médico o pediatra indique lo contrario. Además de ser exclusiva durante los primeros seis meses de vida, la leche materna también actúa como una vacuna natural debido a la gran cantidad de nutrientes que contiene, lo cual ayuda a prevenir enfermedades.   
 
@@ -273,7 +275,7 @@
         p(data-aos="fade-down") La Comisión OMS-UNICEF- Lancet sienta las bases para un nuevo movimiento mundial por la salud infantil, que aborda estas dos crisis y presenta recomendaciones de alto nivel que colocan a los niños en el centro de los Objetivos de Desarrollo Sostenible (ODS). A continuación, se presenta el avance a largo de los años: 
           
       .col-lg-4.my-3.up
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/29.png', alt='') 
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/40.png', alt='') 
 
     .tarjeta.tarjeta--gris.p-4.mb-5(data-aos="fade-left")
       LineaTiempoC.color-acento-contenido(text-small)
@@ -309,7 +311,7 @@
           span Intervenciones plan de cuidado   
         .bg8.p-4
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/38.png', alt='La figura representa las intervenciones multi-sectoriales para favorecer el desarrollo infantil a través del cuidado cariñoso y sensible, promovido por un buen ambiente - modelo ecológico. Estas intervenciones incluyen: Programas de apoyo y fortalecimiento familiar:  ofrecen acceso a servicios de calidad, promueven el desarrollo de habilidades parentales y brindan apoyo social a las familias. Programas multigeneracionales de cuidado cariñoso y sensible:  se enfocan en el cuidado y protección de la salud física y mental, así como en el bienestar de los padres y madres, fomentando su capacidad para brindar un cuidado cariñoso y sensible. Programas de aprendizaje temprano y protección:  brindan apoyo tanto a los niños pequeños como a sus padres o cuidadores, con el objetivo de crear un entorno de aprendizaje cariñoso y sensible.')
-          figcaption Nota.  Tomado de The Lancet (2016). 
+          figcaption Nota.  Tomado de #[i The Lancet] (2016). 
 
     p(data-aos="fade-down").mb-5 La serie #[i The Lancet] también #[b.t1 destaca la importancia de las acciones intersectoriales a través de programas y servicios para apoyar el desarrollo de la primera infancia. Estas intervenciones deben comenzar antes de la concepción y se basan en servicios de salud de calidad y programas nutricionales]. Es crucial tener en cuenta los determinantes sociales de la salud y fomentar un entorno propicio y favorable. Reconociendo cada aplicación como un fundamento en la primera infancia, se puede intervenir en la interrupción del ciclo conformado por la pobreza, la inequidad, los bajos niveles educativos, los bajos ingresos secundarios y la pérdida del crecimiento económico en los países en vías de desarrollo.
 
