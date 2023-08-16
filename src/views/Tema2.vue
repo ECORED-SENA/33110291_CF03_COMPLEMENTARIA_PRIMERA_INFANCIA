@@ -280,19 +280,19 @@
     .tarjeta.tarjeta--gris.p-4.mb-5(data-aos="fade-left")
       LineaTiempoC.color-acento-contenido(text-small)
         .row.justify-content-center.align-items-center(titulo="2007")
-          .col-lg-8.my-3    
+          .col-lg-8.my-3.order-1    
             p.mb-0 En la primera serie de #[i The Lancet] en 2007, se informó que más de 200 millones de niños menores de 5 años no estaban alcanzando su potencial de desarrollo.
-          .col-lg-3.my-3
+          .col-lg-3.my-3.order-lg-2
             img.img-a.img-t(src='@/assets/curso/temas/34.png', alt='') 
         .row.justify-content-center.align-items-center(titulo="2011")
-          .col-lg-8.my-3    
+          .col-lg-8.my-3.order-1    
             p.mb-0 En 2011, la segunda serie de #[i The Lancet] evidenció las brechas y desigualdades en la implementación y cobertura de la atención en la primera infancia, enfatizando la importancia de las intervenciones durante los primeros 3 años de vida.
-          .col-lg-3.my-3
+          .col-lg-3.my-3.order-lg-2
             img.img-a.img-t(src='@/assets/curso/temas/35.png', alt='') 
         .row.justify-content-center.align-items-center(titulo="2016")
-          .col-lg-8.my-3    
+          .col-lg-8.my-3.order-1    
             p.mb-0 En 2016, se publicó la tercera serie de #[i The Lancet], con la esperanza de que las investigaciones se tradujeran en intervenciones prácticas para promover un desarrollo adecuado en la primera infancia y garantizar el acceso a los sistemas de salud. El objetivo era permitir que los niños alcanzaran su máximo potencial social, aumentando así el crecimiento y la productividad de los países, y evitando impactos negativos en el desarrollo de sociedades y generaciones futuras. 
-          .col-lg-3.my-3
+          .col-lg-3.my-3.order-lg-2
             img.img-a.img-t(src='@/assets/curso/temas/36.png', alt='')                         
 
     .row.justify-content-center.align-items-center.mb-4
@@ -325,8 +325,11 @@
 </template>
 
 <script>
+import LineaTiempoC from '../components/LineaTiempoC.vue'
+
 export default {
   name: 'Tema2',
+  components: { LineaTiempoC },
   data: () => ({
     // variables de vue
   }),

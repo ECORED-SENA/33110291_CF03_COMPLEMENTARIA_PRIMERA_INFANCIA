@@ -334,7 +334,7 @@ export default {
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
-          nombre: 'Wilson Andrés ArenalesCáceres',
+          nombre: 'Wilson Andrés Arenales Cáceres',
           cargo: 'Storyboard e Ilustración',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
